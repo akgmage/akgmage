@@ -22,35 +22,6 @@
 - **CS Fundamentals:** DBMS 🗄️, OOP 📦, Operating Systems 🖥️
 - **Non-Technical Skills:** Jira 📋, Confluent 💬, Documentation 📝, Effective Communication 🗣️, Fluent in English 🇬🇧
 
-## 🏢 Experience
-
-### NeoDove Technologies Private Limited  
-**Senior Software Engineer**  
-📆 **Sept 2022 – Present**  
-🌐 **Tech Stack:** Node.js, PostgreSQL, Redis, RabbitMQ, AWS S3, EC2, SNS
-
-- 🛠️ Implemented log-based real-time data updates, reducing data staleness by 100%.
-- ⚡ Optimized SQL queries, reducing execution time by 60%.
-- 📧 Introduced automated nudges using Amazon SNS, resulting in a 50% increase in user re-engagement.
-- 📈 Integrated lead generation platforms with RabbitMQ, processing over 500k leads efficiently.
-
-### Genworks Health Private Limited  
-**Software Engineer**  
-📆 **July 2021 – Sept 2022**  
-🌐 **Tech Stack:** Flutter, Dart
-
-- 🏥 Developed a cross-platform mobile app serving 700+ obstetricians and gynecologists for structured health programs.
-- ✅ Ensured 100% accuracy of patient data and collaborated with a panel of doctors to bring ideas to fruition.
-- 🧪 Implemented unit and widget tests, improving code quality and debugging.
-
-## 🌟 Projects
-
-### Open Source Data Structures And Algorithms  
-📆 **June 2021 – Present**  
-🌐 **Tech Stack:** Java, C++, Go, Python, JavaScript  
-- ⭐ Maintained a popular GitHub repository with 130+ stars and 200+ forks.
-- 🤝 Engaged with a community of 135+ contributors, actively reviewing and improving code.
-
 ## 📬 Contact Me
 
 Feel free to reach out for opportunities, collaborations, or a friendly chat about technology!  
