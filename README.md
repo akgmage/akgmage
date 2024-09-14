@@ -33,7 +33,6 @@
 - ⚡ Optimized SQL queries, reducing execution time by 60%.
 - 📧 Introduced automated nudges using Amazon SNS, resulting in a 50% increase in user re-engagement.
 - 📈 Integrated lead generation platforms with RabbitMQ, processing over 500k leads efficiently.
-- 📋 Streamlined the onboarding process, reducing setup time for new hires from 3-4 days to 1 day.
 
 ### Genworks Health Private Limited  
 **Software Engineer**  
