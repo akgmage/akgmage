@@ -5,7 +5,7 @@
 
 ## 📝 Summary
 
-🚀 **Backend Developer** with 3+ years of experience in building efficient, real-time applications using **Java**, **Node.js**, **Spring Boot**, and **AWS**. Proven track record in optimizing system performance, enhancing user engagement, and integrating seamless solutions.
+🚀 **Software Engineer (Backend)** with 3+ years of experience in building efficient, real-time applications using **Java**, **Node.js**, **Spring Boot**, and **AWS**. Proven track record in optimizing system performance, enhancing user engagement, and integrating seamless solutions.
 
 ## 🎓 Education
 
